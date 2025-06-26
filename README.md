@@ -4,6 +4,8 @@ This is my ✨2030 Time Capsule Webpage✨. You can write a future message💬, 
 ## Installation
 1. download the HTML file, CSS file and the images folder into a another folder in your computer.
 2. Open the HTML file using any browser you prefer and have fun.
+OR
+1. You can simply visit this webpage through this link: https://yassin-elmahdy123.github.io/2030-Time-Capsule/ 
 
 ## Usage
 1. Open the HTML file of the webpage.
